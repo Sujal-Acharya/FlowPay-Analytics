@@ -225,6 +225,6 @@ YTD Revenue, Avg Transaction Value, Churned Customers
 
 ## Author
 
-**[Your Name]**
-- LinkedIn: [your linkedin url]
-- Email: [your email]
+**Sujal S Acharya**
+- LinkedIn: https://www.linkedin.com/in/sujalacharya06/
+- Email: sujalacharya061004@gmail.com
